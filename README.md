@@ -1,5 +1,5 @@
 <h2> CNN-digit-tkinter </h2>
-When i attend google IO 2021 last july I found you can use machine learning on a mobile device so from that  i create this repository, to learn classify a handwritten digit using a Convolutional neural network and also learning using TensorFlow lite in mobile after, you can try the apps in <a href="https://github.com/Alstonargodi/CNN-digit-tkinter/releases/tag/v1">Release page</a>, I'm using mnist handwritten dataset as data training and testing, this how step to classicfy looks like
+When I attend google IO 2021 last july I found you can build a machine learning on a mobile device so from that i create this repository for learn classify a handwritten digit using a Convolutional neural network and also learning using TensorFlow lite in mobile after, you can try the apps in <a href="https://github.com/Alstonargodi/CNN-digit-tkinter/releases/tag/v1">Release page</a>, I'm using mnist handwritten dataset as data training and testing, this how step to classicfy looks like
 
 <ol>
   <li>Create a model in collaboratory
